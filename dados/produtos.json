@@ -1,0 +1,5 @@
+[
+    {"codigo": "P001", "descricao": "Café Orgânico 500g", "preco": 24.9, "estoque": 40},
+    {"codigo": "P002", "descricao": "Pão de Queijo Congelado", "preco": 18.5, "estoque": 25},
+    {"codigo": "P003", "descricao": "Açaí Cremoso 1L", "preco": 32.0, "estoque": 12}
+]
